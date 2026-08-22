@@ -1,59 +1,15 @@
-<h1 align="center">Hi, I'm Hari 🍁 </h1>
+Hey, I’m Hariharan Nadanasabapathi! People call me Hari!
 
-<p align="center">
-  <b>Data Analyst · Analytics Engineer · Buffalo, NY</b><br>
-  <i>From raw source to the number someone acts on.</i>
-</p>
+I’m a Computer Science graduate who likes building things that make life easier, whether that’s smarter analytics, cleaner data pipelines, or automations that save people hours. Lately, I’ve been working on:
 
-<p align="center">
-  <a href="https://linkedin.com/in/hariharan-nadanasabapathi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://hariharan-sabapathi.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:hari.sabgee@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+1. Data & Analytics stuff — building dashboards, data models, and workflows that turn messy data into useful insights.
+2. Data Engineering — building pipelines with Python, SQL, PySpark, Kafka, Snowflake, AWS, and Delta Lake.
+3. Analytics Engineering — playing with dbt, dimensional modeling, data quality checks, and semantic layers to make data more reliable.
+4. Data-to-action workflows — connecting insights to actual decisions with Power BI, Power Automate, and Power Apps.
+5. Healthcare & operations data — digging into real-world datasets to understand quality, throughput, reimbursement, and performance.
+6. Experimentation & stats — playing with forecasting, regression, A/B testing, and statistical analysis to see what the numbers are really saying.
+7. And sometimes... I build things purely because they sound fun.
 
----
+MY MOTTO: MAKE IT WORK. MAKE IT SMART. MAKE IT MATTER 🗿
 
-I build warehouse models, write the tests that keep them honest, and turn what comes out into something a non-technical reader gets on the first pass — ideally without me in the room.
-
-**M.S. Computer Science**, University at Buffalo — currently a **Data Research Analyst** at UB's Spatial AI & Robotics Lab, building automated quality checks that catch corrupt and mislabeled records before they ever reach training.
-
-## Stack
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white">
-  <img src="https://img.shields.io/badge/dbt-FF694A?style=flat-square&logo=dbt&logoColor=white">
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
-  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat-square&logo=databricks&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-</p>
-
-## What I've been building
-
-- **Analytics engineering** — layered dbt models with schema and freshness tests, star schemas in Snowflake, semantic layers so two teams pulling the same metric get the same number
-- **Streaming and batch pipelines** — Kafka into Delta Lake on S3, Snowpark jobs, flattening nested FHIR clinical data into something you can actually query
-- **Experimentation** — A/B frameworks with power analysis and confidence intervals, because sizing an effect before shipping on it matters more than the p-value
-- **Healthcare analytics** — CMS claims and quality data: denial patterns, ED throughput, hospital reimbursement risk, patient flow
-- **Power BI, properly** — DAX scenario modeling, row-level security, scheduled refresh, dashboards built around a decision rather than a dataset
-- **Cohort and segmentation work** — retention curves, RFM, regression forecasting, and the occasional t-test to check whether a gap is real
-
-## Certifications
-
-`Google Advanced Data Analytics` · `Snowflake Data Engineering` · `Microsoft Power Platform Fundamentals` · `Celonis Process Mining`
-
-## Beyond the data
-
-I ran my college music club for two years and made teaching material for an education NGO. Most of what I know about explaining a hard thing to a room came from those, not from work.
-
----
-
-<p align="center">
-  <a href="https://github.com/hariharan-sabapathi?tab=repositories"><b>→ Browse all my repositories</b></a>
-</p>
+To view all my projects, click here → [**My Repositories**](https://github.com/hariharan-sabapathi?tab=repositories)
