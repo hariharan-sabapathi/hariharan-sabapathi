@@ -104,5 +104,5 @@ I ran my college music club for two years and made teaching material for an educ
 ---
 
 <p align="center">
-  <a href="https://github.com/hariharan-sabapathi?tab=repositories"><b>→ Browse all my repositories</b></a>
+  <a href="https://github.com/hariharan-sabapathi?tab=repositories"><b>→ My repositories</b></a>
 </p>
