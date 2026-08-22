@@ -96,8 +96,8 @@ Denial control and A/R aging by payer and CARC category. ED throughput benchmark
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&theme=default" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&theme=default" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=hariharan-sabapathi&show_icons=true&hide_border=true&theme=default" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-sabapathi&layout=compact&hide_border=true&theme=default" height="150">
 </p>
 
 ## 🎓 Certifications
@@ -111,5 +111,5 @@ I ran my college music club for two years and made teaching material for an educ
 ---
 
 <p align="center">
-  <a href="https://github.com/YOUR-USERNAME?tab=repositories"><b>→ Browse all my repositories</b></a>
+  <a href="https://github.com/hariharan-sabapathi?tab=repositories"><b>→ Browse all my repositories</b></a>
 </p>
