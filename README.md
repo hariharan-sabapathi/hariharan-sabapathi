@@ -1,4 +1,4 @@
-Hey, I’m Hariharan Nadanasabapathi! People call me Hari!
+Hey, I’m Hariharan Nadanasabapathi! Let’s keep it simple — Hari
 
 I’m a Computer Science graduate who likes building things that make life easier, whether that’s smarter analytics, cleaner data pipelines, or automations that save people hours. Lately, I’ve been working on:
 
