@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hari 👋</h1>
+<h1 align="center">Hi, I'm Hari </h1>
 
 <p align="center">
   <b>Data Analyst · Analytics Engineer · Buffalo, NY</b><br>
@@ -17,7 +17,7 @@ I model data in the warehouse, test it so it stays right, and put it somewhere a
 
 **M.S. Computer Science**, University at Buffalo — currently a **Data Research Analyst** at UB's Spatial AI & Robotics Lab, building automated quality checks that catch corrupt and mislabeled records before they ever reach training.
 
-## 🧰 Stack
+## Stack
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
@@ -35,7 +35,7 @@ I model data in the warehouse, test it so it stays right, and put it somewhere a
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
-## 🗂️ Selected projects
+## Selected projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -93,18 +93,18 @@ Denial control and A/R aging by payer and CARC category. ED throughput benchmark
 
 </details>
 
-## 📊 GitHub
+## GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hariharan-sabapathi&show_icons=true&hide_border=true&theme=default" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-sabapathi&layout=compact&hide_border=true&theme=default" height="150">
 </p>
 
-## 🎓 Certifications
+## Certifications
 
 `Google Advanced Data Analytics` · `Snowflake Data Engineering` · `Microsoft Power Platform Fundamentals` · `Celonis Process Mining`
 
-## 🎵 Beyond the data
+## Beyond the data
 
 I ran my college music club for two years and made teaching material for an education NGO. Most of what I know about explaining a hard thing to a room came from those, not from work.
 
