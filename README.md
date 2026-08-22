@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/hariharan-nadanasabapathi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="[https://YOUR-PORTFOLIO-URL](https://hariharan-sabapathi.github.io/portfolio-website/)"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"></a>
+  <a href="[https://hariharan-sabapathi.github.io/portfolio-website/]"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:hari.sabgee@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
