@@ -35,16 +35,14 @@ I model data in the warehouse, test it so it stays right, and put it somewhere a
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
-## Selected projects
+## What I've been building
 
-| Project | What it does | Stack |
-|---|---|---|
-| **Revenue Cycle & Claims Denial** | Turns 846K+ CMS claims into a prioritized rework queue — 5 CARC codes drove 63% of denied volume | `dbt` `Snowflake` `Power BI` |
-| **Patient Flow & Shift Staffing** | Found a late-night admission surge against static staffing; modeled a 3-FTE reallocation | `HL7 FHIR R4` `PySpark` `dbt` |
-| **Subscription Retention & Experimentation** | Cohort retention plus a full A/B framework with power analysis | `dbt` `SQL` `Power BI` |
-| **Global Sales & Segmentation** | RFM across 320K+ transactions, served through RLS-scoped regional dashboards | `Snowpark` `Snowflake` `AWS S3` |
-| **Real-Time Blood Supply Detection** | Streaming days-of-supply logic across 8 blood types, live rather than batch | `Kafka` `Delta Lake` `PySpark` |
-| **National ED Throughput Benchmarking** | Peer-group cohorts so hospital comparisons are actually fair | `CMS IQR` `SQL` `Power BI` |
+- **Analytics engineering** — layered dbt models with schema and freshness tests, star schemas in Snowflake, semantic layers so two teams pulling the same metric get the same number
+- **Streaming and batch pipelines** — Kafka into Delta Lake on S3, Snowpark jobs, flattening nested FHIR clinical data into something you can actually query
+- **Experimentation** — A/B frameworks with power analysis and confidence intervals, because sizing an effect before shipping on it matters more than the p-value
+- **Healthcare analytics** — CMS claims and quality data: denial patterns, ED throughput, hospital reimbursement risk, patient flow
+- **Power BI, properly** — DAX scenario modeling, row-level security, scheduled refresh, dashboards built around a decision rather than a dataset
+- **Cohort and segmentation work** — retention curves, RFM, regression forecasting, and the occasional t-test to check whether a gap is real
 
 ## What I work on
 
@@ -104,5 +102,5 @@ I ran my college music club for two years and made teaching material for an educ
 ---
 
 <p align="center">
-  <a href="https://github.com/hariharan-sabapathi?tab=repositories"><b>→ My repositories</b></a>
+  <a href="https://github.com/hariharan-sabapathi?tab=repositories"><b>→ Browse all my repositories</b></a>
 </p>
