@@ -13,7 +13,7 @@
 
 ---
 
-I model data in the warehouse, test it so it stays right, and put it somewhere a non-technical person can read without a walkthrough. The middle step is the one most people skip.
+I build warehouse models, write the tests that keep them honest, and turn what comes out into something a non-technical reader gets on the first pass — ideally without me in the room.
 
 **M.S. Computer Science**, University at Buffalo — currently a **Data Research Analyst** at UB's Spatial AI & Robotics Lab, building automated quality checks that catch corrupt and mislabeled records before they ever reach training.
 
