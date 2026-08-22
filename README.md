@@ -46,7 +46,7 @@ I model data in the warehouse, test it so it stays right, and put it somewhere a
 | **Real-Time Blood Supply Detection** | Streaming days-of-supply logic across 8 blood types, live rather than batch | `Kafka` `Delta Lake` `PySpark` |
 | **National ED Throughput Benchmarking** | Peer-group cohorts so hospital comparisons are actually fair | `CMS IQR` `SQL` `Power BI` |
 
-## 🔍 What I work on
+## What I work on
 
 <details>
 <summary><b>Analytics engineering</b> — models that stay right</summary>
