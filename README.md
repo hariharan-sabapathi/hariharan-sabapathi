@@ -93,13 +93,6 @@ Denial control and A/R aging by payer and CARC category. ED throughput benchmark
 
 </details>
 
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariharan-sabapathi&show_icons=true&hide_border=true&theme=default" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-sabapathi&layout=compact&hide_border=true&theme=default" height="150">
-</p>
-
 ## Certifications
 
 `Google Advanced Data Analytics` · `Snowflake Data Engineering` · `Microsoft Power Platform Fundamentals` · `Celonis Process Mining`
