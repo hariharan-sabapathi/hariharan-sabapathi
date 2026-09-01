@@ -36,4 +36,4 @@ I'd rather ship one system with real numbers than five demos with none.
 
 Ground truth comes from an independent source or it isn't ground truth. Limitations sections are a feature. If the benchmark hasn't run, the table stays empty.
 
-📫 [LinkedIn](ADD_URL) · [Portfolio](ADD_URL) · [Email](mailto:ADD_EMAIL)
+📫 [LinkedIn](https://www.linkedin.com/in/hariharan-nadanasabapathi/) · [Portfolio](https://hariharan-sabapathi.github.io/portfolio-website/) · [Email](mailto:hari.sabgee@gmail.com)
