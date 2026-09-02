@@ -1,6 +1,6 @@
 ## Hey, I’m Hariharan Nadanasabapathi! Let’s keep it simple — Hari
 
-**AI engineer.** Retrieval systems, tool-using agents, domain-adapted models — and the data infrastructure they sit on.
+**I build AI systems that can actually work with real data — retrieval, tool-using agents, domain-specific models, and the infrastructure behind them.**
 
 MS Computer Science. Most of my work runs on real healthcare data, because that's where retrieval gets hard: repetitive corpora, business rules that live outside the schema, and answers that are confidently wrong instead of loudly broken.
 
