@@ -1,6 +1,6 @@
 ## Hey, I’m Hariharan Nadanasabapathi! Let’s keep it simple — Hari
 
-**I build AI systems that can actually work with real data — retrieval, tool-using agents, domain-specific models, and the infrastructure behind them.**
+**I build AI systems for real-world problems, from retrieval and agents to domain-specific models and the data systems they depend on.**
 
 MS Computer Science. Most of my work runs on real healthcare data, because that's where retrieval gets hard: repetitive corpora, business rules that live outside the schema, and answers that are confidently wrong instead of loudly broken.
 
