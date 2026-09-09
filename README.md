@@ -2,7 +2,7 @@
 
 **Backend engineer. I build services that handle sensitive data carefully: who's allowed to see what, what happens when a dependency dies, and where every number came from.**
 
-MS Computer Science. Most of my work runs on healthcare data, because that's where the hard parts show up — access control that has to hold at the database level, audit trails that can't be optional, and answers that are confidently wrong instead of loudly broken.
+MS in Computer Science. Most of my work focuses on healthcare data because that's where the real challenges show up — keeping data secure, tracking changes, and making sure systems give accurate answers.
 
 I'd rather ship one system with real numbers than five demos with none.
 
@@ -34,6 +34,6 @@ Models can answer the question; the backend has to make sure the whole system wo
 
 ### How I work
 
-Ground truth comes from an independent source or it isn't ground truth. Limitations sections are a feature. If the benchmark hasn't run, the table stays empty. When a number turns out to be an artifact of how I measured it, I say so and publish the smaller one.
+Ground truth comes from an independent source. Limitations are part of the work. If a benchmark hasn’t run, the table stays empty. If a number is wrong, I say so and use the corrected one.
 
 📫 [LinkedIn](https://www.linkedin.com/in/hariharan-nadanasabapathi/) · [Portfolio](https://hariharan-sabapathi.github.io/portfolio-website/) · [Email](mailto:hari.sabgee@gmail.com)
