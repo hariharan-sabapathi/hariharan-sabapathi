@@ -8,7 +8,7 @@ I'd rather ship one system with real numbers than five demos with none.
 
 ### Backend
 
-**[Clinical-Evidence-Api](https://github.com/hariharan-sabapathi/Clinical-Evidence-Api)** — Deployed FastAPI service for securely searching clinical FHIR data, with PostgreSQL access controls, audit logging, and reliable data processing. [Live](https://clinical-evidence-api.onrender.com/docs) — includes a live demo of role-based patient access.
+**[Clinical-Evidence-Api](https://github.com/hariharan-sabapathi/Clinical-Evidence-Api)** — Deployed FastAPI service for securely searching clinical FHIR data, with PostgreSQL access controls, audit logging, and reliable data processing. [Live](https://clinical-evidence-api.onrender.com/docs) — sign in as one clinician, request another clinician’s patient, and see the database enforce the boundary with a 403.
 
 **[Real-Time-Subscription-Data-Platform](https://github.com/hariharan-sabapathi/Real-Time-Subscription-Data-Platform)** — Debezium → Kafka → Spark Streaming → Delta Lake → dbt, orchestrated on Airflow. Writing the runbook found four real bugs in my own pipeline. Three are fixed in the history; the fourth is documented with the reason it isn't.
 
