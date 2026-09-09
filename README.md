@@ -8,25 +8,25 @@ I'd rather ship one system with real numbers than five demos with none.
 
 ### Backend
 
-**[Clinical-Evidence-Api](https://github.com/hariharan-sabapathi/Clinical-Evidence-Api)** — Deployed FastAPI service for securely searching clinical FHIR data, with PostgreSQL access controls, audit logging, and reliable data processing. [Live](https://clinical-evidence-api.onrender.com/docs) — sign in as one clinician, request another clinician’s patient, and see the database enforce the boundary with a 403.
+**[Clinical-Evidence-Api](https://github.com/hariharan-sabapathi/Clinical-Evidence-Api)** — Deployed FastAPI service for securely searching clinical FHIR data, with PostgreSQL-enforced access controls, audit logging, and reliable data processing. [Live](https://clinical-evidence-api.onrender.com/docs) — sign in as one clinician, request another clinician’s patient, and see the database enforce the boundary with a 403.
 
 **[Real-Time-Subscription-Data-Platform](https://github.com/hariharan-sabapathi/Real-Time-Subscription-Data-Platform)** — Debezium → Kafka → Spark Streaming → Delta Lake → dbt, orchestrated on Airflow. Writing the runbook found four real bugs in my own pipeline. Three are fixed in the history; the fourth is documented with the reason it isn't.
 
-**[FilmIQ](https://github.com/hariharan-sabapathi/FilmIQ---A-Movie-Analytics-System)** — BCNF schema over IMDb and Oscars data, with three before/after `EXPLAIN ANALYZE` cases. One of them is a negative result: the index was structurally correct and moved nothing, because that table was 0.35% of the query's buffer reads.
+**[FilmIQ](https://github.com/hariharan-sabapathi/FilmIQ---A-Movie-Analytics-System)** — Normalized IMDb and Oscars database with `EXPLAIN ANALYZE` testing. Three before/after cases, including an index that made no difference because the table contributed just 0.35% of buffer reads.
 
-**[CMS-Hospital-Performance-Platform](https://github.com/hariharan-sabapathi/CMS-Hospital-Performance-Platform)** — Config-driven ingestion → dbt → FastAPI read API, Dockerized with CI. Cursor pagination that doesn't silently drop rows when the sort column is NULL, with a test that proves it. Published the null result honestly: ρ = −0.025 across 1,079 hospitals.
+**[CMS-Hospital-Performance-Platform](https://github.com/hariharan-sabapathi/CMS-Hospital-Performance-Platform)** — Config-driven ingestion → dbt → FastAPI, Dockerized with CI. Built cursor pagination that handles NULL sort values without dropping rows, backed by tests. Published the result honestly: ρ = −0.025 across 1,079 hospitals.
 
-**[Medical-Insurance-Claims-And-Denial-Analytics](https://github.com/hariharan-sabapathi/Medical-Insurance-Claims-And-Denial-Analytics)** — CMS claims star schema with CARC denial modeling and revenue-cycle KPIs. Says plainly which half of each number is real DE-SynPUF data and which half is modeled.
+**[Medical-Insurance-Claims-And-Denial-Analytics](https://github.com/hariharan-sabapathi/Medical-Insurance-Claims-And-Denial-Analytics)** — CMS claims star schema with CARC denial modeling and revenue-cycle KPIs. Clearly separates real DE-SynPUF data from modeled results.
 
 ### Retrieval and models
 
-The generation side of the systems above — and where I learned what the serving layer has to survive.
+Models can answer the question; the backend has to make sure the whole system works.
 
-**[ClaimX](https://github.com/hariharan-sabapathi/ClaimX)** — Text-to-SQL on a claims warehouse, QLoRA-tuned. Scored by execution against a gold oracle, not string match. Separates queries that crash from queries that lie. The eval runs as a CI gate.
+**[ClaimX](https://github.com/hariharan-sabapathi/ClaimX)** — QLoRA-tuned Text-to-SQL system for a claims warehouse. Evaluated by executing queries against a gold oracle, not by string matching. Separates queries that crash from queries that return wrong answers, with evaluation enforced in CI.
 
-**[Second-Opinion](https://github.com/hariharan-sabapathi/Second-Opinion)** — Agentic RAG that grades its own retrieval before answering, rewrites the query when it fails, and stops after three rounds.
+**[Second-Opinion](https://github.com/hariharan-sabapathi/Second-Opinion)** — Agentic RAG that evaluates its own retrieval before answering, rewrites the query when retrieval fails, and stops after three rounds.
 
-**[clinical-retrieval](https://github.com/hariharan-sabapathi/clinical-retrieval)** — RAG over 7,761 clinical notes. 194-question eval set, ground truth from structured FHIR, five chunking strategies benchmarked. Reports a lift that *didn't* reach significance.
+**[clinical-retrieval](https://github.com/hariharan-sabapathi/clinical-retrieval)** — RAG over 7,761 clinical notes, evaluated on 194 questions with ground truth from structured FHIR. Five chunking strategies benchmarked. Reports a lift that *didn't* reach significance.
 
 ### Stack
  
