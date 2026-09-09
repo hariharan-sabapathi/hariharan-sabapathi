@@ -8,7 +8,7 @@ I'd rather ship one system with real numbers than five demos with none.
 
 ### Backend
 
-**[Clinical-Evidence-Api](https://github.com/hariharan-sabapathi/Clinical-Evidence-Api)** — Deployed FastAPI service over a clinical FHIR corpus. Authorization enforced by Postgres row-level security, not by checks in route handlers. Async ingestion, audit logging in the same transaction as the read, optimistic locking, circuit breaker. [Live](https://clinical-evidence-api.onrender.com/docs) — log in as one clinician, request another's patient, watch the 403. *(Free instance; first request wakes it, give it ~40s.)*
+**[Clinical-Evidence-Api](https://github.com/hariharan-sabapathi/Clinical-Evidence-Api)** — Deployed FastAPI service for securely searching clinical FHIR data, with PostgreSQL access controls, audit logging, and reliable data processing. [Live](https://clinical-evidence-api.onrender.com/docs) — includes a live demo of role-based patient access.
 
 **[Real-Time-Subscription-Data-Platform](https://github.com/hariharan-sabapathi/Real-Time-Subscription-Data-Platform)** — Debezium → Kafka → Spark Streaming → Delta Lake → dbt, orchestrated on Airflow. Writing the runbook found four real bugs in my own pipeline. Three are fixed in the history; the fourth is documented with the reason it isn't.
 
@@ -29,8 +29,8 @@ The generation side of the systems above — and where I learned what the servin
 **[clinical-retrieval](https://github.com/hariharan-sabapathi/clinical-retrieval)** — RAG over 7,761 clinical notes. 194-question eval set, ground truth from structured FHIR, five chunking strategies benchmarked. Reports a lift that *didn't* reach significance.
 
 ### Stack
-
-`Python` `FastAPI` `Postgres` `SQL` `Redis` `Docker` `GitHub Actions` `PySpark` `Kafka` `Debezium` `dbt` `Delta Lake` `DuckDB` `Snowflake` `AWS` `PyTorch` `Power BI`
+ 
+`Python` `FastAPI` `Postgres` `SQL` `Redis` `Docker` `GitHub Actions` `PySpark` `Kafka` `dbt` `Delta Lake` `DuckDB` `Snowflake` `AWS` `PyTorch` `Power BI`
 
 ### How I work
 
