@@ -2,9 +2,9 @@
 
 **Software engineer, data.** I build pipelines and backend services for sensitive healthcare data, and I measure whether they work.
 
-M.S. Computer Science, University at Buffalo (2026) · Data Research Analyst at UB's Spatial AI & Robotics Lab · 1.5 years building Python and SQL pipelines in industry
+M.S. Computer Science, University at Buffalo (2026)
 
-### Featured work
+### Featured wor
 
 - **[Clinical-Evidence-Api](https://github.com/hariharan-sabapathi/Clinical-Evidence-Api)**: FastAPI over clinical FHIR data with PostgreSQL Row-Level Security, audit logging and 140 tests. [Live demo](https://clinical-evidence-api.onrender.com/docs): request another clinician's patient and the database returns a 403.
 - **[EHR-Data-Integration](https://github.com/hariharan-sabapathi/EHR-Data-Integration-And-Patient-Flow-Analytics)**: FHIR R4 → PySpark → star schema on Snowflake or DuckDB (7,761 encounters), with dbt models for length of stay and readmissions.
