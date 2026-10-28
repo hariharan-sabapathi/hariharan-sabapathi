@@ -4,7 +4,7 @@
 
 M.S. Computer Science, University at Buffalo (2026)
 
-### Featured wor
+### Featured work
 
 - **[Clinical-Evidence-Api](https://github.com/hariharan-sabapathi/Clinical-Evidence-Api)**: FastAPI over clinical FHIR data with PostgreSQL Row-Level Security, audit logging and 140 tests. [Live demo](https://clinical-evidence-api.onrender.com/docs): request another clinician's patient and the database returns a 403.
 - **[EHR-Data-Integration](https://github.com/hariharan-sabapathi/EHR-Data-Integration-And-Patient-Flow-Analytics)**: FHIR R4 → PySpark → star schema on Snowflake or DuckDB (7,761 encounters), with dbt models for length of stay and readmissions.
